@@ -1,0 +1,32 @@
+{
+  "input_sequence": [
+    "C",
+    "G",
+    "Amin",
+    "Dmin",
+    "C",
+    "D"
+  ],
+  "generated_sequence": [
+    "C",
+    "G",
+    "Amin",
+    "Dmin",
+    "C",
+    "D",
+    "G",
+    "F",
+    "E",
+    "Emin",
+    "C",
+    "D",
+    "Amin",
+    "Emin",
+    "E",
+    "D",
+    "C",
+    "Dmin",
+    "A",
+    "D"
+  ]
+}
